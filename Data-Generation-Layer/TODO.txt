@@ -1,0 +1,19 @@
+Data Generation Layer
+
++------------------------------------------------------------+
+|               Data Generation Layer (Python Script)        |
+|  +------------------------------------------------------+  |
+|  | - Generate Synthetic Sensor Data                      |  |
+|  +------------------------------------------------------+  |
+|  | - Publish Data via MQTT                               |  |
++------------------------------------------------------------+
+
+1- Generate Synthetic Sensor Data
+
+    - Pressure sensor
+    - Temperature sensor
+    - Humidity sensor
+    - Gas sensor
+    - Light sensor
+    - Sound sensor
+

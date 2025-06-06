@@ -1,0 +1,72 @@
+[
+    {
+        "timestamp": 1749182365.5987318,
+        "pressure": 77.68,
+        "temperature": 64.03,
+        "vibration": 0.044,
+        "energy_consumption": 497.9
+    },
+    {
+        "timestamp": 1749182366.5999253,
+        "pressure": 36.8,
+        "temperature": 75.38,
+        "vibration": 0.097,
+        "energy_consumption": 196.9
+    },
+    {
+        "timestamp": 1749182367.6011612,
+        "pressure": 69.73,
+        "temperature": 100.29,
+        "vibration": 0.026,
+        "energy_consumption": 215.1
+    },
+    {
+        "timestamp": 1749182368.6023924,
+        "pressure": 56.19,
+        "temperature": 102.89,
+        "vibration": 0.042,
+        "energy_consumption": 451.8
+    },
+    {
+        "timestamp": 1749182369.6036026,
+        "pressure": 53.44,
+        "temperature": 99.06,
+        "vibration": 0.083,
+        "energy_consumption": 354.6
+    },
+    {
+        "timestamp": 1749182370.604704,
+        "pressure": 67.84,
+        "temperature": 62.4,
+        "vibration": 0.084,
+        "energy_consumption": 473.6
+    },
+    {
+        "timestamp": 1749182371.6052432,
+        "pressure": 75.54,
+        "temperature": 93.02,
+        "vibration": 0.019,
+        "energy_consumption": 303.3
+    },
+    {
+        "timestamp": 1749182372.6062484,
+        "pressure": 55.65,
+        "temperature": 65.67,
+        "vibration": 0.061,
+        "energy_consumption": 102.1
+    },
+    {
+        "timestamp": 1749182373.6073465,
+        "pressure": 77.37,
+        "temperature": 94.77,
+        "vibration": 0.066,
+        "energy_consumption": 436.6
+    },
+    {
+        "timestamp": 1749182374.6087475,
+        "pressure": 65.78,
+        "temperature": 70.69,
+        "vibration": 0.091,
+        "energy_consumption": 223.9
+    }
+]
